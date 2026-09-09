@@ -1,286 +1,206 @@
 <!-- ============================================================
      ANURAJ SINGH — GitHub Profile README
-     Username: its-anuraj
+     its-anuraj | Banner: committed SVG (no external service)
      ============================================================ -->
 
-<!-- ─────────────────────────────────────────────────────────────
-     HERO — HEADER BANNER
-     ───────────────────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0ea5e9,100:7c3aed&amp;height=200&amp;section=header&amp;text=Anuraj%20Singh&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=16&amp;descColor=94a3b8" width="100%" alt="Anuraj Singh Banner"/>
-
-<!-- Typing animation — 4 rotating identities -->
-<a href="https://github.com/its-anuraj">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=520&amp;lines=Mobile+App+Developer+%7C+React+Native+%2B+Expo;Full-Stack+Engineer+%7C+TypeScript+%2B+Node.js;DSA+%26+Problem+Solver+%7C+Java+%2B+LeetCode;Building+AI-Powered+%26+Real-World+Applications" alt="Typing Animation"/>
-</a>
+<!-- Custom banner — served directly from repo, always loads -->
+<img src="./banner.svg" width="100%" alt="Anuraj Singh"/>
 
 <br/>
 
-<!-- Social badges -->
+<!-- Typing animation -->
 <a href="https://github.com/its-anuraj">
-  <img src="https://img.shields.io/badge/GitHub-its--anuraj-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/anuraj-singh-47330030a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://anuraj-singh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:ajsinghindolia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=2800&amp;pause=900&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+mobile+apps+with+React+Native;Engineering+full-stack+systems;Sharpening+DSA+one+problem+at+a+time;AI-augmented+product+builder" alt="Typing"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=its-anuraj&amp;label=Profile+Views&amp;color=0ea5e9&amp;style=flat-square" alt="Profile Views"/>
+<a href="https://github.com/its-anuraj"><img src="https://img.shields.io/badge/GitHub-its--anuraj-0d1117?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=21262d" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anuraj-singh-47330030a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://anuraj-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:ajsinghindolia@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=its-anuraj&amp;label=views&amp;color=0ea5e9&amp;style=flat-square" alt="Views"/>
 
 </div>
-
----
-
-<!-- ─────────────────────────────────────────────────────────────
-     ABOUT ME
-     ───────────────────────────────────────────────────────────── -->
-
-## About Me
-
-```typescript
-const anuraj: Developer = {
-  education : "B.Tech — Computer Science & Engineering",
-  focus     : ["Mobile App Development", "Full-Stack Engineering"],
-  exploring : ["AI & Machine Learning", "Cloud Computing"],
-  approach  : "Ship practical software. Solve real problems. Build at scale.",
-};
-```
-
-I'm a CS undergraduate building production-grade applications across mobile and web.
-My work lives at the intersection of **mobile-first UX**, **scalable backend systems**, and **AI-augmented features**.
-I treat DSA not as a checkbox, but as a tool for writing code that actually performs.
-Currently deepening my expertise in full-stack architecture while exploring how AI and cloud infrastructure can power the next generation of applications.
-
----
-
-<!-- ─────────────────────────────────────────────────────────────
-     CURRENT FOCUS
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Current Focus
-
-<div align="center">
-
-| 📱 Mobile Architecture | 🌐 Full-Stack Systems |
-|:---|:---|
-| React Native & Expo — cross-platform apps at scale | Node.js APIs, REST architecture, auth systems |
-| **🧠 AI-Powered Features** | **⚡ DSA & Problem Solving** |
-| Integrating AI/ML into practical applications | Java, algorithmic thinking, LeetCode |
-
-</div>
-
----
-
-<!-- ─────────────────────────────────────────────────────────────
-     TECH STACK
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" alt="Languages"/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" alt="Frontend and Mobile"/>
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend"/>
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
-
-**Exploring**
-
-<img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" alt="Exploring"/>
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+---
 
-</div>
+## &nbsp;`~/whoami`
+
+```typescript
+const anuraj: Developer = {
+  degree   : "B.Tech — Computer Science & Engineering",
+  building : ["Cross-platform mobile apps", "Full-stack web systems"],
+  exploring: ["AI/ML integration", "Cloud infrastructure"],
+  mindset  : "Ship things that work. Then make them scale.",
+};
+```
+
+CS undergraduate who builds software that solves actual problems.
+My projects live at the intersection of **mobile-first product thinking**, **robust backend design**, and **AI-powered features**.
+Currently going deep on full-stack architecture and sharpening algorithmic fundamentals — because good engineers understand systems from both ends.
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     FEATURED PROJECTS
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Featured Projects
+## &nbsp;`~/stack`
 
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [CampusHub-AI](https://github.com/its-anuraj/CampusHub-AI)
-**AI-powered campus utility platform**
-
-An intelligent campus companion integrating AI to streamline student workflows — from academic resources to campus navigation.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI_Integration-7c3aed?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 [SERS](https://github.com/its-anuraj/SERS)
-**Smart Emergency Response System**
-
-A real-time emergency coordination system built for rapid response scenarios — bridging the gap between crisis detection and action.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Real-time](https://img.shields.io/badge/Real--Time_Systems-0ea5e9?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 [Disaster-Alert](https://github.com/its-anuraj/Disaster-alert)
-**Real-time disaster alerting system**
-
-Mobile-first platform delivering live disaster alerts and location-aware notifications — designed around urgency, reliability, and offline resilience.
-
-![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Geolocation](https://img.shields.io/badge/Geolocation-0ea5e9?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [DSA in Java — LeetCode](https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions)
-**Structured algorithmic problem-solving**
-
-A well-organized repository of LeetCode solutions in Java — covering arrays, graphs, DP, and more. Built as a long-term CS fundamentals reference.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=black)
-![DSA](https://img.shields.io/badge/Data_Structures-7c3aed?style=flat-square)
-
-</td>
-</tr>
+<tr><td align="center" width="160"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" height="36" alt="Languages"/>
+</td></tr>
+<tr><td align="center"><b>Mobile</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" height="36" alt="Mobile"/>
+&nbsp;<code>React Native</code> &nbsp;<code>Expo</code>
+</td></tr>
+<tr><td align="center"><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="36" alt="Frontend"/>
+&nbsp;<code>React</code>
+</td></tr>
+<tr><td align="center"><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="36" alt="Backend"/>
+&nbsp;<code>Node.js</code> &nbsp;<code>REST APIs</code>
+</td></tr>
+<tr><td align="center"><b>Tooling</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="36" alt="Tools"/>
+</td></tr>
+<tr><td align="center"><b>Exploring</b></td><td>
+<img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" height="36" alt="Cloud"/>
+&nbsp;<sub><code>Cloud · AI/ML</code></sub>
+</td></tr>
 </table>
 
 </div>
 
-> Also built: **[My Portfolio](https://github.com/its-anuraj/My-Portfolio)** · **[HackIndia 2024 — NCR East](https://github.com/its-anuraj/hackindia-spark-4-ncr-east-region-bit-rebels)** (Hackathon project)
+---
+
+## &nbsp;`~/projects`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" style="padding:12px">
+
+**🤖 [CampusHub-AI](https://github.com/its-anuraj/CampusHub-AI)**
+
+AI-powered campus utility platform — an intelligent companion that streamlines student workflows using AI integration.
+
+`TypeScript` `React Native` `AI/ML` `Expo`
+
+</td>
+<td width="50%" valign="top" style="padding:12px">
+
+**🚨 [SERS](https://github.com/its-anuraj/SERS)**
+
+Smart Emergency Response System — bridges the gap between crisis detection and coordinated real-time response.
+
+`JavaScript` `Node.js` `Real-Time`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:12px">
+
+**🌍 [Disaster-Alert](https://github.com/its-anuraj/Disaster-alert)**
+
+Mobile-first disaster alerting with geolocation-aware push notifications. Designed around urgency and offline resilience.
+
+`React Native` `Expo` `Geolocation`
+
+</td>
+<td width="50%" valign="top" style="padding:12px">
+
+**⚡ [DSA in Java](https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions)**
+
+Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynamic programming. A long-term CS fundamentals reference.
+
+`Java` `LeetCode` `Algorithms`
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<sub>Also built:&nbsp;
+<a href="https://github.com/its-anuraj/My-Portfolio"><b>My Portfolio</b></a>&nbsp;·&nbsp;
+<a href="https://github.com/its-anuraj/hackindia-spark-4-ncr-east-region-bit-rebels"><b>HackIndia 2024 — NCR East</b></a>
+</sub>
+</div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     GITHUB ANALYTICS
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;GitHub Analytics
+## &nbsp;`~/analytics`
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=react&amp;bg_color=0d1117&amp;border_color=21262d&amp;icon_color=00d9ff&amp;title_color=ffffff&amp;text_color=8b949e&amp;hide_border=false&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="165px" src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=dark&amp;background=0d1117&amp;border=21262d&amp;stroke=21262d&amp;ring=00d9ff&amp;fire=7c3aed&amp;currStreakLabel=ffffff&amp;sideLabels=8b949e&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff" alt="GitHub Streak"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=00d9ff&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false&amp;rank_icon=github" alt="Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=dark&amp;background=0d1117&amp;border=30363d&amp;stroke=30363d&amp;ring=00d9ff&amp;fire=7c3aed&amp;currStreakLabel=f0f6fc&amp;sideLabels=8b949e&amp;dates=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc" alt="Streak"/>
 
 <br/>
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=react&amp;bg_color=0d1117&amp;border_color=21262d&amp;title_color=ffffff&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;langs_count=8&amp;hide=html,css" alt="Languages"/>
 
 </div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     ACTIVITY GRAPH
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Contribution Activity
+## &nbsp;`~/activity`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=ffffff&amp;area=true&amp;area_color=0ea5e9&amp;hide_border=true" width="95%" alt="Contribution Graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=f0f6fc&amp;area=true&amp;hide_border=true" width="96%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     CONTRIBUTION SNAKE
-     Activate: Go to Actions tab → Run "Generate Contribution Snake"
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Contribution Map
+## &nbsp;`~/contributions`
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg" width="95%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg" width="96%"/>
 </picture>
-
 </div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     LEETCODE / DSA
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;DSA &amp; Problem Solving
+## &nbsp;`~/dsa`
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Anuraj_singh_indolia?theme=dark&amp;font=JetBrains+Mono&amp;ext=heatmap&amp;border=0&amp;radius=8&amp;bg_color=0d1117&amp;border_color=21262d&amp;title_color=00d9ff&amp;text_color=8b949e" alt="LeetCode Stats" width="480"/>
+<img src="https://leetcard.jacoblin.cool/Anuraj_singh_indolia?theme=dark&amp;font=JetBrains+Mono&amp;ext=heatmap&amp;border=0&amp;radius=6" width="460" alt="LeetCode Stats"/>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Anuraj_singh_indolia/">
-  <img src="https://img.shields.io/badge/LeetCode-Anuraj__singh__indolia-ffa116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode Profile"/>
+  <img src="https://img.shields.io/badge/LeetCode-Anuraj__singh__indolia-ffa116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions">
-  <img src="https://img.shields.io/badge/DSA_Solutions-Java_+_LeetCode-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="DSA Repository"/>
+  <img src="https://img.shields.io/badge/DSA_Repo-Java_Solutions-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="DSA Repository"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     CONNECT
-     ───────────────────────────────────────────────────────────── -->
-
-## &nbsp;Let's Connect
+## &nbsp;`~/connect`
 
 <div align="center">
 
 <a href="https://github.com/its-anuraj">
-  <img src="https://img.shields.io/badge/GitHub-its--anuraj-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-its--anuraj-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=21262d" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/anuraj-singh-47330030a/">
@@ -292,21 +212,17 @@ A well-organized repository of LeetCode solutions in Java — covering arrays, g
 </a>
 &nbsp;
 <a href="mailto:ajsinghindolia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-ajsinghindolia%40gmail.com-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     FOOTER
-     ───────────────────────────────────────────────────────────── -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:0ea5e9,100:0d1117&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer"/>
-
-<sub><b>Building · Learning · Shipping</b></sub>
-
+<br/>
+<sub>
+<code>Building</code> &nbsp;·&nbsp; <code>Learning</code> &nbsp;·&nbsp; <code>Shipping</code>
+</sub>
+<br/><br/>
 </div>
