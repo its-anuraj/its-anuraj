@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:ajsinghindolia@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
@@ -291,7 +291,7 @@ A well-organized repository of LeetCode solutions in Java — covering arrays, g
   <img src="https://img.shields.io/badge/Portfolio-anuraj--singh.vercel.app-7c3aed?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:ajsinghindolia@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_in_Touch-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
