@@ -143,13 +143,13 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=00d9ff&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false&amp;rank_icon=github" alt="Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=dark&amp;background=0d1117&amp;border=30363d&amp;stroke=30363d&amp;ring=00d9ff&amp;fire=7c3aed&amp;currStreakLabel=f0f6fc&amp;sideLabels=8b949e&amp;dates=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=00d9ff&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=dark&amp;background=0d1117&amp;border=30363d&amp;ring=00d9ff&amp;fire=7c3aed&amp;currStreakLabel=f0f6fc&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc" alt="GitHub Streak" height="160"/>
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;langs_count=8&amp;hide=html,css" alt="Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 ## &nbsp;`~/activity`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=f0f6fc&amp;area=true&amp;hide_border=true" width="96%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=f0f6fc&amp;hide_border=true" width="96%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -179,7 +179,7 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Anuraj_singh_indolia?theme=dark&amp;font=JetBrains+Mono&amp;ext=heatmap&amp;border=0&amp;radius=6" width="460" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Anuraj_singh_indolia?theme=dark&amp;font=JetBrains+Mono&amp;border=0&amp;radius=6" width="460" alt="LeetCode Stats"/>
 
 <br/><br/>
 
