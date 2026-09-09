@@ -163,9 +163,9 @@ Structured algorithmic solutions — arrays, graphs, trees, DP. A rigorous CS fu
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/github-snake-dark.svg" width="96%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/pacman.svg"/>
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/its-anuraj/its-anuraj/output/pacman-dark.svg" width="96%"/>
 </picture>
 </div>
 
