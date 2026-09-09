@@ -1,18 +1,18 @@
 <!-- ============================================================
      ANURAJ SINGH — GitHub Profile README
-     its-anuraj | Banner: committed SVG (no external service)
+     its-anuraj | Mobile-First · Full-Stack Engineer
      ============================================================ -->
 
 <div align="center">
 
-<!-- Custom banner — served directly from repo, always loads -->
+<!-- Custom banner — committed to repo, no external service dependency -->
 <img src="./banner.svg" width="100%" alt="Anuraj Singh"/>
 
 <br/>
 
 <!-- Typing animation -->
 <a href="https://github.com/its-anuraj">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=2800&amp;pause=900&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+mobile+apps+with+React+Native;Engineering+full-stack+systems;Sharpening+DSA+one+problem+at+a+time;AI-augmented+product+builder" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=900&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Mobile-First+Engineer+%E2%80%94+React+Native+%2B+Expo;Full-Stack+Architect+%E2%80%94+Node.js+%2B+PostgreSQL;CS+Core+%E2%80%94+DSA+%2B+OOPs+%2B+System+Design;Clean+Code.+Scalable+Systems.+Zero+Clutter." alt="Typing"/>
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 &nbsp;
 <a href="mailto:ajsinghindolia@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=its-anuraj&amp;label=views&amp;color=0ea5e9&amp;style=flat-square" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=its-anuraj&amp;label=views&amp;color=3b82f6&amp;style=flat-square" alt="Views"/>
 
 </div>
 
@@ -33,108 +33,104 @@
 
 ---
 
-## &nbsp;`~/whoami`
-
-```typescript
-const anuraj: Developer = {
-  degree   : "B.Tech — Computer Science & Engineering",
-  building : ["Cross-platform mobile apps", "Full-stack web systems"],
-  exploring: ["AI/ML integration", "Cloud infrastructure"],
-  mindset  : "Ship things that work. Then make them scale.",
-};
-```
-
-CS undergraduate who builds software that solves actual problems.
-My projects live at the intersection of **mobile-first product thinking**, **robust backend design**, and **AI-powered features**.
-Currently going deep on full-stack architecture and sharpening algorithmic fundamentals — because good engineers understand systems from both ends.
+*Crafting pixel-perfect cross-platform applications and architecting scalable backend systems.*
+*Pure logic, zero clutter.*
 
 ---
 
-## &nbsp;`~/stack`
+## &nbsp;`~/engineering-philosophy`
+
+- 📱 **Mobile UI/UX** — Building seamless, fluid, native-feeling applications with **React Native, Expo, and NativeWind**. Every frame counts.
+- ⚙️ **Robust Backends** — Powering products with highly scalable REST APIs using **Node.js** backed by **PostgreSQL, MySQL, and MongoDB** — chosen by workload, not habit.
+- 🧠 **Algorithmic Core** — Writing optimized, production-ready code grounded in **DSA, OOPs, and System Design**, implemented natively in **C++, Java, and Python**.
+- 🔧 **The Workflow** — Clean architecture, containerized environments via **Docker**, API validation with **Postman**, and version-controlled everything through **Git**.
+
+---
+
+## &nbsp;`~/tech-arsenal`
 
 <div align="center">
 
-<table>
-<tr><td align="center" width="160"><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" height="36" alt="Languages"/>
-</td></tr>
-<tr><td align="center"><b>Mobile</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" height="36" alt="Mobile"/>
-&nbsp;<code>React Native</code> &nbsp;<code>Expo</code>
-</td></tr>
-<tr><td align="center"><b>Frontend</b></td><td>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="36" alt="Frontend"/>
-&nbsp;<code>React</code>
-</td></tr>
-<tr><td align="center"><b>Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="36" alt="Backend"/>
-&nbsp;<code>Node.js</code> &nbsp;<code>REST APIs</code>
-</td></tr>
-<tr><td align="center"><b>Tooling</b></td><td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="36" alt="Tools"/>
-</td></tr>
-<tr><td align="center"><b>Exploring</b></td><td>
-<img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" height="36" alt="Cloud"/>
-&nbsp;<sub><code>Cloud · AI/ML</code></sub>
-</td></tr>
-</table>
+**Languages & Logic**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,ts,js,python&theme=dark" height="38" alt="Languages"/>
+
+<br/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" height="38" alt="Frontend"/>
+
+<br/>
+<sub><code>React Native</code> &nbsp;·&nbsp; <code>Expo</code> &nbsp;·&nbsp; <code>NativeWind</code></sub>
+
+<br/><br/>
+
+**Backend · Database · Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,docker&theme=dark" height="38" alt="Backend"/>
+
+<br/>
+
+**Dev Environment & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" height="38" alt="Tools"/>
+
+<br/><br/>
+
+**Core Concepts**
+
+`DSA` &nbsp;·&nbsp; `OOPs` &nbsp;·&nbsp; `OS & DBMS` &nbsp;·&nbsp; `API Development` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Prompt Engineering`
 
 </div>
 
 ---
 
-## &nbsp;`~/projects`
+## &nbsp;`~/selected-work`
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top" style="padding:12px">
+<td width="50%" valign="top">
 
 **🤖 [CampusHub-AI](https://github.com/its-anuraj/CampusHub-AI)**
 
-AI-powered campus utility platform — an intelligent companion that streamlines student workflows using AI integration.
+AI-integrated campus utility platform — intelligent workflows, academic tooling, and campus navigation built mobile-first.
 
-`TypeScript` `React Native` `AI/ML` `Expo`
+`TypeScript` · `React Native` · `Expo` · `AI Integration`
 
 </td>
-<td width="50%" valign="top" style="padding:12px">
+<td width="50%" valign="top">
 
 **🚨 [SERS](https://github.com/its-anuraj/SERS)**
 
-Smart Emergency Response System — bridges the gap between crisis detection and coordinated real-time response.
+Smart Emergency Response System — real-time crisis coordination architecture bridging detection to response at scale.
 
-`JavaScript` `Node.js` `Real-Time`
+`Node.js` · `REST API` · `Real-Time Systems`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding:12px">
+<td width="50%" valign="top">
 
 **🌍 [Disaster-Alert](https://github.com/its-anuraj/Disaster-alert)**
 
-Mobile-first disaster alerting with geolocation-aware push notifications. Designed around urgency and offline resilience.
+Geolocation-aware disaster alerting — mobile-first, push-notification driven, engineered for offline resilience and urgency.
 
-`React Native` `Expo` `Geolocation`
+`React Native` · `Expo` · `Geolocation`
 
 </td>
-<td width="50%" valign="top" style="padding:12px">
+<td width="50%" valign="top">
 
 **⚡ [DSA in Java](https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions)**
 
-Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynamic programming. A long-term CS fundamentals reference.
+Structured algorithmic solutions — arrays, graphs, trees, DP. A rigorous CS fundamentals reference, written in Java.
 
-`Java` `LeetCode` `Algorithms`
+`Java` · `Algorithms` · `Data Structures`
 
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-<sub>Also built:&nbsp;
-<a href="https://github.com/its-anuraj/My-Portfolio"><b>My Portfolio</b></a>&nbsp;·&nbsp;
-<a href="https://github.com/its-anuraj/hackindia-spark-4-ncr-east-region-bit-rebels"><b>HackIndia 2024 — NCR East</b></a>
-</sub>
 </div>
 
 ---
@@ -143,13 +139,13 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=00d9ff&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;icon_color=3B82F6&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=dark&amp;background=0d1117&amp;border=30363d&amp;ring=00d9ff&amp;fire=7c3aed&amp;currStreakLabel=f0f6fc&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc" alt="GitHub Streak" height="160"/>
+<img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=transparent&amp;hide_border=true&amp;ring=3B82F6&amp;fire=7c3aed&amp;currStreakLabel=3B82F6&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;dates=8b949e" alt="GitHub Streak" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=react&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
 
 </div>
 
@@ -158,7 +154,7 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 ## &nbsp;`~/activity`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=f0f6fc&amp;hide_border=true" width="96%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=3B82F6&amp;line=7c3aed&amp;point=f0f6fc&amp;hide_border=true" width="96%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -188,7 +184,7 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 </a>
 &nbsp;
 <a href="https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions">
-  <img src="https://img.shields.io/badge/DSA_Repo-Java_Solutions-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="DSA Repository"/>
+  <img src="https://img.shields.io/badge/DSA_Repo-Java_Solutions-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="DSA Repo"/>
 </a>
 
 </div>
@@ -221,8 +217,6 @@ Structured LeetCode solutions in Java covering arrays, graphs, trees, and dynami
 
 <div align="center">
 <br/>
-<sub>
-<code>Building</code> &nbsp;·&nbsp; <code>Learning</code> &nbsp;·&nbsp; <code>Shipping</code>
-</sub>
+<sub><code>Build.</code> &nbsp;·&nbsp; <code>Optimize.</code> &nbsp;·&nbsp; <code>Ship.</code></sub>
 <br/><br/>
 </div>
