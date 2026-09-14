@@ -124,13 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;icon_color=3B82F6&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=transparent&amp;hide_border=true&amp;ring=3B82F6&amp;fire=7c3aed&amp;currStreakLabel=3B82F6&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;dates=8b949e" alt="GitHub Streak" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
+<img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=transparent&amp;hide_border=true&amp;ring=3B82F6&amp;fire=7c3aed&amp;currStreakLabel=3B82F6&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;dates=8b949e" alt="GitHub Streak" height="175"/>
 
 </div>
 
