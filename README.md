@@ -47,114 +47,103 @@
 
 ---
 
-## &nbsp;`~/tech-arsenal`
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages & Logic**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,ts,js,python&theme=dark" height="38" alt="Languages"/>
-
 <br/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" height="38" alt="Frontend"/>
-
-<br/>
-<sub><code>React Native</code> &nbsp;·&nbsp; <code>Expo</code> &nbsp;·&nbsp; <code>NativeWind</code></sub>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
 <br/><br/>
 
-**Backend · Database · Cloud**
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,docker&theme=dark" height="38" alt="Backend"/>
-
+**Frontend & Mobile**
 <br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-**Dev Environment & Tooling**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" height="38" alt="Tools"/>
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+
+<br/><br/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+
+<br/><br/>
+
+**Tools & Environments**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 <br/><br/>
 
 **Core Concepts**
-
+<br/>
 `DSA` &nbsp;·&nbsp; `OOPs` &nbsp;·&nbsp; `OS & DBMS` &nbsp;·&nbsp; `API Development` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Prompt Engineering`
 
 </div>
 
 ---
 
-## &nbsp;`~/selected-work`
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 [CampusHub-AI](https://github.com/its-anuraj/CampusHub-AI)**
-
-AI-integrated campus utility platform — intelligent workflows, academic tooling, and campus navigation built mobile-first.
-
-`TypeScript` · `React Native` · `Expo` · `AI Integration`
-
-</td>
-<td width="50%" valign="top">
-
-**🚨 [SERS](https://github.com/its-anuraj/SERS)**
-
-Smart Emergency Response System — real-time crisis coordination architecture bridging detection to response at scale.
-
-`Node.js` · `REST API` · `Real-Time Systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌍 [Disaster-Alert](https://github.com/its-anuraj/Disaster-alert)**
-
-Geolocation-aware disaster alerting — mobile-first, push-notification driven, engineered for offline resilience and urgency.
-
-`React Native` · `Expo` · `Geolocation`
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ [DSA in Java](https://github.com/its-anuraj/DSA-in-java-LeetCode-Solutions)**
-
-Structured algorithmic solutions — arrays, graphs, trees, DP. A rigorous CS fundamentals reference, written in Java.
-
-`Java` · `Algorithms` · `Data Structures`
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## &nbsp;`~/analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;icon_color=3B82F6&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=its-anuraj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;icon_color=3B82F6&amp;text_color=8b949e&amp;count_private=true" alt="GitHub Stats" height="160"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=its-anuraj&amp;theme=transparent&amp;hide_border=true&amp;ring=3B82F6&amp;fire=7c3aed&amp;currStreakLabel=3B82F6&amp;sideLabels=8b949e&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;dates=8b949e" alt="GitHub Streak" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=its-anuraj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" height="160"/>
 
 </div>
 
+
 ---
 
-## &nbsp;`~/activity`
+
+## 💭 Dev Quote
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anuraj&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=3B82F6&amp;line=7c3aed&amp;point=f0f6fc&amp;hide_border=true" width="96%" alt="Activity Graph"/>
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
+</a>
 </div>
 
 ---
