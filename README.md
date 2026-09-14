@@ -38,14 +38,6 @@
 
 ---
 
-## `engineering-philosophy`
-
-- 📱 **Mobile UI/UX** — Building seamless, fluid, native-feeling applications with **React Native, Expo, and NativeWind**. Every frame counts.
-- ⚙️ **Robust Backends** — Powering products with highly scalable REST APIs using **Node.js** backed by **PostgreSQL, MySQL, and MongoDB** — chosen by workload, not habit.
-- 🧠 **Algorithmic Core** — Writing optimized, production-ready code grounded in **DSA, OOPs, and System Design**, implemented natively in **C++, Java, and Python**.
-- 🔧 **The Workflow** — Clean architecture, containerized environments via **Docker**, API validation with **Postman**, and version-controlled everything through **Git**.
-
----
 
 ## 🛠️ Tech Stack
 
