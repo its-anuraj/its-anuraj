@@ -131,17 +131,6 @@
 
 ---
 
-
-## 💭 Dev Quote
-
-<div align="center">
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
-</a>
-</div>
-
----
-
 ## &nbsp;`~/contributions`
 
 <div align="center">
