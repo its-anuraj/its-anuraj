@@ -38,7 +38,7 @@
 
 ---
 
-## &nbsp;`~/engineering-philosophy`
+## `engineering-philosophy`
 
 - 📱 **Mobile UI/UX** — Building seamless, fluid, native-feeling applications with **React Native, Expo, and NativeWind**. Every frame counts.
 - ⚙️ **Robust Backends** — Powering products with highly scalable REST APIs using **Node.js** backed by **PostgreSQL, MySQL, and MongoDB** — chosen by workload, not habit.
@@ -120,7 +120,7 @@
 ---
 
 
-## &nbsp;`~/analytics`
+## `analytics`
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 ---
 
-## &nbsp;`~/contributions`
+## `contributions`
 
 <div align="center">
 <picture>
@@ -143,7 +143,7 @@
 
 ---
 
-## &nbsp;`~/dsa`
+## `dsa`
 
 <div align="center">
 
@@ -163,7 +163,7 @@
 
 ---
 
-## &nbsp;`~/connect`
+## `connect`
 
 <div align="center">
 
